@@ -68,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Malay-79/C-/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Malay-79/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Malay-79/C-/tree/master/0022-generate-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/Malay-79/C-/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Malay-79/C-/tree/master/0022-generate-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/Malay-79/C-/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
 | ------- |
