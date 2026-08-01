@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Malay-79/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Malay-79/C-/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Malay-79/C-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Malay-79/C-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Malay-79/C-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Malay-79/C-/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Malay-79/C-/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Malay-79/C-/tree/master/0022-generate-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Malay-79/C-/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Malay-79/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Malay-79/C-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Malay-79/C-/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Malay-79/C-/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -110,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Malay-79/C-/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
