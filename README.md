@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Malay-79/C-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Malay-79/C-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Malay-79/C-/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/Malay-79/C-/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/Malay-79/C-/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Malay-79/C-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Malay-79/C-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Malay-79/C-/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/Malay-79/C-/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Malay-79/C-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
