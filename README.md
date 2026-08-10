@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Malay-79/C-/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Malay-79/C-/tree/master/0216-combination-sum-iii) |
+| [0260-single-number-iii](https://github.com/Malay-79/C-/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Malay-79/C-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Malay-79/C-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Malay-79/C-/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Malay-79/C-/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Malay-79/C-/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Malay-79/C-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
