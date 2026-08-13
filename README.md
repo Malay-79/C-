@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Malay-79/C-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Malay-79/C-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Malay-79/C-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Malay-79/C-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Malay-79/C-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Malay-79/C-/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Malay-79/C-/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Malay-79/C-/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
