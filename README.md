@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Malay-79/C-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Malay-79/C-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Malay-79/C-/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Malay-79/C-/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malay-79/C-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Malay-79/C-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Malay-79/C-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Malay-79/C-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/Malay-79/C-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Malay-79/C-/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Malay-79/C-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Malay-79/C-/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Malay-79/C-/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -172,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Malay-79/C-/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Malay-79/C-/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
