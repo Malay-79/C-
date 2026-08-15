@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Malay-79/C-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Malay-79/C-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Malay-79/C-/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Malay-79/C-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Malay-79/C-/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/Malay-79/C-/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/Malay-79/C-/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Malay-79/C-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Malay-79/C-/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Malay-79/C-/tree/master/0994-rotting-oranges) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Malay-79/C-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
