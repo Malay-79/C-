@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Malay-79/C-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Malay-79/C-/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
+| [0994-rotting-oranges](https://github.com/Malay-79/C-/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Malay-79/C-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Malay-79/C-/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/Malay-79/C-/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Malay-79/C-/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Malay-79/C-/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
