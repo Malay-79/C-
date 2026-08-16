@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Malay-79/C-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/Malay-79/C-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Malay-79/C-/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Malay-79/C-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Malay-79/C-/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Malay-79/C-/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Malay-79/C-/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Malay-79/C-/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Malay-79/C-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malay-79/C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Malay-79/C-/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Malay-79/C-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Malay-79/C-/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
