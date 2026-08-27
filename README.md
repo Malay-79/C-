@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Malay-79/C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Malay-79/C-/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Malay-79/C-/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/Malay-79/C-/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Malay-79/C-/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Malay-79/C-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Malay-79/C-/tree/master/0260-single-number-iii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Malay-79/C-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malay-79/C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Malay-79/C-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Malay-79/C-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Malay-79/C-/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Malay-79/C-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Malay-79/C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Malay-79/C-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Malay-79/C-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Malay-79/C-/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Malay-79/C-/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Malay-79/C-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Malay-79/C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Malay-79/C-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Malay-79/C-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Malay-79/C-/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Malay-79/C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Malay-79/C-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Malay-79/C-/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Malay-79/C-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
